@@ -13,7 +13,7 @@ import java.util.*;
  *
  * @version: 1.6 (shapes)
  */
-public class Canvas
+public class Canvas extends Canvas
 {
     // Note: The implementation of this class (specifically the handling of
     // shape identity and colors) is slightly more complex than necessary. This
